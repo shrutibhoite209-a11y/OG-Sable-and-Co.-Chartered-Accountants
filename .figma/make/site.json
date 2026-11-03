@@ -1,0 +1,10 @@
+{
+  "description": "This web application creates an engaging and modern website for chartered accountants, showcasing services with interactive icons and easy contact options.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
